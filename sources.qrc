@@ -1,0 +1,22 @@
+<RCC>
+    <qresource prefix="/">
+        <file>sources/1484066185_box-in.png</file>
+        <file>sources/1484066195_box-out.png</file>
+        <file>sources/1484068483_11.png</file>
+        <file>sources/arrow-down-c.png</file>
+        <file>sources/1484255135_network-wired.png</file>
+        <file>sources/1484264170_disconnect.png</file>
+        <file>sources/1484535377_accept-database.png</file>
+        <file>sources/1484535369_remove-from-database.png</file>
+        <file>sources/style.qss</file>
+        <file>sources/1484744923_f-table-cell_128.png</file>
+        <file>sources/1491885825_Key.png</file>
+        <file>sources/1491885923_018.png</file>
+        <file>sources/1491886114_Icon_Business_Set_00010_A.png</file>
+        <file>sources/template_report.lrxml</file>
+        <file>sources/template_report2.lrxml</file>
+        <file>sources/template_report3.lrxml</file>
+        <file>sources/template_report4.lrxml</file>
+        <file>sources/template_report5.lrxml</file>
+    </qresource>
+</RCC>
